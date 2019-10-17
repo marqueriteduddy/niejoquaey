@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://yugiefoht.godkang.com/sitemap.xml
